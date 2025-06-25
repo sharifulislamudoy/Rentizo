@@ -20,8 +20,8 @@
 
 ## 📂 Repositories
 
-- **Client Side:** [Romivio-client](https://github.com/sharifulislamudoy/Romivio-client)  
-- **Server Side:** [Rommivio-Server](https://github.com/sharifulislamudoy/Rommivio-Server)
+- **Client Side:** [Rentizo-client](https://github.com/sharifulislamudoy/Rentizo-Client)  
+- **Server Side:** [Rentizo-Server](https://github.com/sharifulislamudoy/Rentizo-Server)
 
 ---
 
