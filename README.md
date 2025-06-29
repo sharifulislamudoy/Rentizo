@@ -40,7 +40,7 @@
 
 ## 🌐 Live Preview
 
-🔗 **Live Site:** [https://roomivio-auth.web.app/](https://roomivio-auth.web.app/)
+🔗 **Live Site:** [https://rentizo.web.app/](https://rentizo.web.app/)
 
 You can browse available cars, register/login with Firebase, book or manage rentals, and explore the protected dashboard.
 
